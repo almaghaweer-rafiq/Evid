@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EVid.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1B0D73A186D7144E8F825957352AD4D98376DC73</string>
+				<key>dateExpires</key>
+				<string>9/26/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V744GC9MY5.com.ghulamrasool.EVid</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V744GC9MY5</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V744GC9MY5.com.ghulamrasool.EVid</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>AlMaghaweer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>71f561e8-299c-4bf5-b1d8-63a737af5be3</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V744GC9MY5</string>
+				<key>name</key>
+				<string>Raja Ghulam Rasool</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

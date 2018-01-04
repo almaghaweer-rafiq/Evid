@@ -9,7 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIButton *liveVideoButton;
 
+@property (weak, nonatomic) IBOutlet UIButton *btnLiveVideo;
+ 
 
 @end
 

@@ -7,12 +7,16 @@
 //
 
 #import "ViewController.h"
+#import "IntermediateVidController.h"
+#import "IJKMoviePlayerViewController.h"
 
 @interface ViewController ()
 
 @end
 
 @implementation ViewController
+
+
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
@@ -25,5 +29,5 @@
 	// Dispose of any resources that can be recreated.
 }
 
-
+ 
 @end
